@@ -1239,7 +1239,10 @@
 "@screens/signup@file:./screens/signup":
   version "1.0.0"
 
-"@screens/waiting-list-message@file:./screens/waiting-list-message/":
+"@screens/user-address@file:./screens/user-address/":
+  version "1.0.0"
+
+"@screens/waiting-list-message@file:./screens/waiting-list-message":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
