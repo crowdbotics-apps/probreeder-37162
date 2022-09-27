@@ -19,6 +19,7 @@
     "@screens/signature": "file:./screens/signature/",
     "@screens/signup": "file:./screens/signup/",
     "@screens/user-address": "file:./screens/user-address/",
+    "@screens/user-subscribed": "file:./screens/user-subscribed/",
     "@screens/waiting-list-message": "file:./screens/waiting-list-message/",
     "axios": "^0.21.1",
     "react": "17.0.1",
