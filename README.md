@@ -60,6 +60,7 @@ This react_native application was built with Crowdbotics www.crowdbotics.com
 This section will show any installed modules you add from the Storyboard Modules section.
 - [screen-signup](screens/signup)
 - [screen-signature](screens/signature)
+- [screen-waiting-list-message](screens/waiting-list-message)
 
 # Getting started: Frontend
 
