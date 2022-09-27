@@ -19,6 +19,7 @@
     "@reduxjs/toolkit": "^1.5.0",
     "@screens/signature": "file:./screens/signature/",
     "@screens/signup": "file:./screens/signup/",
+    "@screens/social-profile": "file:./screens/social-profile/",
     "@screens/user-address": "file:./screens/user-address/",
     "@screens/user-subscribed": "file:./screens/user-subscribed/",
     "@screens/waiting-list-message": "file:./screens/waiting-list-message/",
