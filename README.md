@@ -65,6 +65,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-user-subscribed](screens/user-subscribed)
 - [react-native-user-profile](modules/user-profile)
 - [screen-social-profile](screens/social-profile)
+- [screen-store-products-listing](screens/product-listing)
 
 # Getting started: Frontend
 
