@@ -68,6 +68,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-store-products-listing](screens/product-listing)
 - [screen-photo-library](screens/photo-library)
 - [screen-kanban](screens/kanban)
+- [screen-image-editing-crop](screens/image-editing-crop)
 
 # Getting started: Frontend
 
